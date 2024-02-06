@@ -1,4 +1,4 @@
-# Madison's HTML practice 
+# Madison's HTML practice
 
 By Madison, Intro Coding for Journalists class
 
